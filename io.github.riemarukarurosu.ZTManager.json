@@ -38,7 +38,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/RiemaruKarurosu/ZT-Manager.git",
-                    "tag": "v2.0.2"
+                    "tag": "v2.0.3"
                 }
             ],
             "config-opts": [
